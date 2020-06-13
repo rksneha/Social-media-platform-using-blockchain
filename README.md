@@ -13,3 +13,7 @@ blockchain restricts ads and control over privacy data by giant marketers or hac
 issue we face with social media is post spamming and fake accounts. This project has been
 implemented with a hope to eradicate this issue from the history of social media platforms.
 
+## TO RUN THE FILES:
+ For all the dependencies in the node files,Clone all the files in node-modules folder and the package-lock json file to your system. Or, install each of the dependency manually through npm-install commands.
+ 
+
